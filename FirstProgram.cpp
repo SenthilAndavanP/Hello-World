@@ -22,7 +22,8 @@ int main()
   return 0;
 }
 */
-void main()
+int main()
 {
   cout<<"Executing First program in C++ through jenkins";
+  return 0;
 }
